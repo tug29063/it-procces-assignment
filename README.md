@@ -1,1 +1,4 @@
 # it-procces-assignment
+
+
+Source contorl is important because it allows programmers to collaborate on a project together in the same programming enviornment. This is beneficial because if more than one programmer needs to be working on something at the same time they can do that. Source control tools allow you to merge together different changes that several programmer made to the same file. These tools make it very easy to identify if there are any conflicting lines of code that were changed and tracks all changes made. This is helpful because if there are any concerns with the code you can go back and see when something was changed and who made the change. Another useful tool in source control is the fact that older version are saved. This is useful because if a new version ever fails you can fall back onto the older version that worked last. You can also refer back to the last working version if you run into a problem to help fix an error. 
